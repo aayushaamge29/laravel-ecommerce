@@ -1,0 +1,10 @@
+{
+	"info": {
+		"_postman_id": "bbb5c8c2-c55d-4c7a-81f4-877838ffe97c",
+		"name": "innovant ecommerce",
+		"description": "All API endpoints for the Laravel-based E-commerce project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45088555"
+	},
+	"item": []
+}
